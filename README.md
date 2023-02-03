@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Fruta & Fruto - Reaproveite melhor os alimentos!" src="https://raw.githubusercontent.com/nayarawatanuki/architecture-css__page/main/assets/img/readme.md/Cover%20-%20Fruta%20e%20Fruto.png"/>
+  <img alt="Fruta & Fruto - Reaproveite melhor os alimentos!" src="https://raw.githubusercontent.com/nayarawatanuki/architecture-css__page/main/assets/img/readme.md/Cover%20-%20Fruta%20e%20Fruto.png#vitrinedev"/>
 </h1>
 
 ### Índice
@@ -17,7 +17,7 @@
 ## :pencil: Descrição do Projeto
 O projeto **[Fruta & Fruto](https://nayarawatanuki.github.io/architecture-css__page/)**, é uma proposta de página web para um canal de receitas saudaveis. 
 Esse projeto contém o objetivo de aprender a fazer uma página, na estrutura HTML, com estrutura CSS (estilização) adequada e boas práticas de ambas as linguagens. 
-</br>Desenvolvido para o curso de **ARQUITETURA CSS: DESCOMPLICANDO OS PROBLEMAS** da platforma [Alura](https://www.alura.com.br/).
+</br>Desenvolvido para o curso de **ARQUITETURA CSS: DESCOMPLICANDO OS PROBLEMAS** da plataforma [Alura](https://www.alura.com.br/).
 
 </br>
 
