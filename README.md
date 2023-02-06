@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Fruta & Fruto - Reaproveite melhor os alimentos!" src="https://raw.githubusercontent.com/nayarawatanuki/architecture-css__page/main/assets/img/readme.md/Cover%20-%20Fruta%20e%20Fruto.png#vitrinedev"/>
+  <img alt="Fruta & Fruto - Reaproveite melhor os alimentos!" src="https://raw.githubusercontent.com/nayarawatanuki/architecture-css__fruta-fruto/main/assets/img/readme.md/Cover%20-%20Fruta%20e%20Fruto.png#vitrinedev"/>
 </h1>
 
 ### Índice
@@ -15,7 +15,7 @@
 </br>
 
 ## :pencil: Descrição do Projeto
-O projeto **[Fruta & Fruto](https://nayarawatanuki.github.io/architecture-css__page/)**, é uma proposta de página web para um canal de receitas saudaveis. 
+O projeto **[Fruta & Fruto](https://nayarawatanuki.github.io/architecture-css__fruta-fruto/)**, é uma proposta de página web para um canal de receitas saudaveis. 
 Esse projeto contém o objetivo de aprender a fazer uma página, na estrutura HTML, com estrutura CSS (estilização) adequada e boas práticas de ambas as linguagens. 
 </br>Desenvolvido para o curso de **ARQUITETURA CSS: DESCOMPLICANDO OS PROBLEMAS** da plataforma [Alura](https://www.alura.com.br/).
 
@@ -44,7 +44,7 @@ Isso tudo foi realizado com as seguintes aulas:
 </br>
 
 ## :open_file_folder: Acesso ao projeto
-Você pode acessar o [código fonte do projeto](https://github.com/nayarawatanuki/architecture-css__page) ou [baixá-lo](https://github.com/nayarawatanuki/architecture-css__page/archive/refs/heads/main.zip).
+Você pode acessar o [código fonte do projeto](https://github.com/nayarawatanuki/architecture-css__fruta-fruto) ou [baixá-lo](https://github.com/nayarawatanuki/architecture-css__fruta-fruto/archive/refs/heads/main.zip).
 
 Caso obte por baixá-lo: 
 Após baixar o projeto, você pode abrir com o VS Code. Para isso, abra o explorer (primeiro icone no menu) clique em:
@@ -55,9 +55,9 @@ Após baixar o projeto, você pode abrir com o VS Code. Para isso, abra o explor
 </br>
 
 ## :rocket: Abrir e rodar o projeto
-Caso tenha interesse em visualizar o que foi realizado: [Fruta & Fruto](https://nayarawatanuki.github.io/architecture-css__page/) 
+Caso tenha interesse em visualizar o que foi realizado: [Fruta & Fruto](https://nayarawatanuki.github.io/architecture-css__fruta-fruto/) 
 
-Ou, caso prefira baixá-lo clicando [aqui](https://github.com/nayarawatanuki/architecture-css__page/archive/refs/heads/main.zip).
+Ou, caso prefira baixá-lo clicando [aqui](https://github.com/nayarawatanuki/architecture-css__fruta-fruto/archive/refs/heads/main.zip).
 
 > Após baixar o projeto, abra a pasta do projeto (Caso o projeto seja baixado em zip, é necessário extraí-lo antes de abrir), então clique no:
 > - Aqruivo **``index.html``**
@@ -66,7 +66,7 @@ Ou, caso prefira baixá-lo clicando [aqui](https://github.com/nayarawatanuki/arc
 </br>
 
 ## :keyboard: Tecnologias utilizadas
-![HTML + CSS](https://raw.githubusercontent.com/nayarawatanuki/architecture-css__page/main/assets/img/readme.md/html-css.PNG)</br>
+![HTML + CSS](https://raw.githubusercontent.com/nayarawatanuki/architecture-css__fruta-fruto/main/assets/img/readme.md/html-css.PNG)</br>
 
 </br>
 
